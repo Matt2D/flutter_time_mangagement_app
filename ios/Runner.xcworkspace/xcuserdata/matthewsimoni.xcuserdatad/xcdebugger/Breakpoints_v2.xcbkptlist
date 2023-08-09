@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D87438C4-85D2-4FFC-B6FA-350A0065B1FB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "D2EC17F5-7A31-4B25-9CBD-A912E6F7A9D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "5E6F318D-634D-4912-B488-0070842A313F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "[FlutterViewController viewDidLoad]"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "5E6F318D-634D-4912-B488-0070842A313F - f1442e26529834d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FlutterViewController viewDidLoad]"
+                  moduleName = "Flutter"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5E6F318D-634D-4912-B488-0070842A313F - 70d21e35cbc7486b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FlutterViewController viewDidLoad]"
+                  moduleName = "Flutter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewsimoni/Desktop/flutter/engine/src/flutter/shell/platform/darwin/ios/framework/Source/FlutterViewController.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "713"
+                  endingLineNumber = "713"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

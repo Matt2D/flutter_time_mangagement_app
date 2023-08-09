@@ -1,0 +1,14 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/matthewsimoni/Desktop/flutter/flutter
+FLUTTER_APPLICATION_PATH=/Users/matthewsimoni/Desktop/flutter/flutterProject
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+FLUTTER_ENGINE=/Users/matthewsimoni/Desktop/flutter/engine/src
+LOCAL_ENGINE=ios_debug_sim_unopt
+ARCHS=x86_64
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=.dart_tool/package_config.json
